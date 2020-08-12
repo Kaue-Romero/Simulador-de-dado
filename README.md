@@ -3,7 +3,7 @@
 
  <strong>obs:Não há tratamento de erros, eles seram comunicado normalmente no consolo</strong>
 
-<h2>Como usar:<h2>
+<h2>Como usar:</h2>
 <ul>
 <li>Copie o código do repositório;
 <li>Execute em um compilador python.
